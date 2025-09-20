@@ -24,7 +24,7 @@ Learn how to use tags in EC2 for better identification and organization.
 
 - Instances filtered by tag
 
-![](./AWS-EC2-Tagging/Screenshots/Filter-By-Added.png)
+![](./AWS-EC2-Tagging/Screenshots/Filter-By-Tag.png)
 
 - Terminal output
 
