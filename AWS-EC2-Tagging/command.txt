@@ -1,0 +1,6 @@
+# Add a tag to an instance
+aws ec2 create-tags --resources i-017ff5991eca75831 --tags Key=Name,Value=Web-Server
+
+# View tags
+aws ec2 describe-tags --filters "Name=resource-id,Values=i-017ff5991eca75831"
+
